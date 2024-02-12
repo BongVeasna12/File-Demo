@@ -1,0 +1,1 @@
+Buffer is the better way to write and read data!
